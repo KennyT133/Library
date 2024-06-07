@@ -1,0 +1,20 @@
+#bookForm{
+  display: none;
+}
+
+.bookCard{
+  border: 1px solid black;
+  padding: 16px;
+  margin: 16px;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+
+}
+
+.bookCard h3 {
+  margin: 0;
+}
+
+.bookCard p {
+  margin: 8px 0;
+}
